@@ -28,12 +28,6 @@ this is some data of diabetes from sklearn. and I generate some noise and add to
 
 ![](https://github.com/xuxiaohan/RPCA/blob/master/fig/fig_5.png?raw=true)
 
-||figure|
-|---|---|
-|the position of noise point|![](https://github.com/xuxiaohan/RPCA/blob/master/fig/fig_1.png?raw=true)|
-|the clean data|![](https://github.com/xuxiaohan/RPCA/blob/master/fig/fig_2.png?raw=true)|
-|the data with noise|![](https://github.com/xuxiaohan/RPCA/blob/master/fig/fig_3.png?raw=true)|
-|the result of RPCA|![](https://github.com/xuxiaohan/RPCA/blob/master/fig/fig_4.png?raw=true)|
 
 
 
