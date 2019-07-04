@@ -4,7 +4,7 @@ a python code of RPCA
 I develope this project to record my study trace.  
 Anyone can use my code for any legitimate use without let me know.
 
-if you feel my code is helpful for your work, your star is the greatest encouragement for me.
+if my code is helpful for your work, your star is the greatest encouragement for me.
 -------
 
 
